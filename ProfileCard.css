@@ -1,0 +1,19 @@
+div {
+    width: 260px;
+    height: 350px;
+    border: 3px groove blue;
+    padding: 50px;
+    margin: 25px;
+    background-color: chocolate;
+    text-align: center;
+    border-radius: 50px;
+}
+div img {
+    border-radius: 700px;
+}
+h1 {
+    font-family: monospace;
+    font-size: 30px;
+    color:rgb(105, 46, 46);
+    text-align: center;
+}
