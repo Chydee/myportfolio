@@ -1,0 +1,11 @@
+h1 {
+    border: groove dimgray;
+    background-color: dimgray;
+}
+form {
+    border: dashed pink;
+    background-color: pink;
+     margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 50px;
+}

@@ -1,0 +1,18 @@
+h1 {
+    border: groove ;
+background-color: dimgray ;
+}
+ul {
+    border: solid cornflowerblue;
+    background-color: cornflowerblue;
+    border-radius: 50px;
+      margin-left: 400px;
+    margin-right: 400px;
+}
+p {
+    border: groove ;
+    background-color: dimgray;
+    border-radius: 50px;
+     margin-left: 400px;
+    margin-right: 400px;
+}
